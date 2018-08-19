@@ -1,4 +1,4 @@
-Network Protocol
+Transport Layer Network Protocol
 
 These two processes will exchange simple packets through the 
 protocol. 
