@@ -1,28 +1,16 @@
 Transport Layer Network Protocol
 
-<<<<<<< HEAD
 Authors:
 Greyson Wang
 Anthony Tran
 Jonathon Mo
 
-These two processes will exchange simple packets that are used to implement the
-protocol. Please note that the form of the packets has been changed from the example in
-your textbook. This means that the arguments of the makepkt function in the figures must
-be changed to a list of the variables in the fields of the packets described below. The
-arguments of makepkt should be in the order Field1, Field2, Field3, Field4.
-Your programs must run on the Linux machines in the CSIL labs. If your programs do not run
-in the Linux environment in CSIL you will receive a 0 for this problem. Beware socket
-programs are often not easily portable between operating systems.
-The contents of the simple packets you send between your sender (client) and receiver
-(server) sockets will include 4 values.
-=======
 These two processes will exchange simple packets through the 
 protocol. 
 
-The contents of the packets your sender (client) and receiver
+The contents of the packets the sender (client) and receiver
 (server) sockets includes 4 values.
->>>>>>> master
+
 • Field 1: Packet contents: a 32 bit integer.
 The integer cannot be assumed to follow any pattern
 Packet contents for an ACK or NACK packets is 0
