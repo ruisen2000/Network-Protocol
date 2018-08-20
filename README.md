@@ -1,5 +1,10 @@
 Network Protocol
 
+Authors:
+Greyson Wang
+Anthony Tran
+Jonathon Mo
+
 These two processes will exchange simple packets that are used to implement the
 protocol. Please note that the form of the packets has been changed from the example in
 your textbook. This means that the arguments of the makepkt function in the figures must
