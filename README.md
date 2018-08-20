@@ -1,8 +1,9 @@
 Transport Layer Network Protocol
+Date: Summer 2018  
 
-Authors:
-Greyson Wang
-Anthony Tran
+Authors:  
+Greyson Wang  
+Anthony Tran  
 Jonathon Mo
 
 These two processes will exchange simple packets through the 
